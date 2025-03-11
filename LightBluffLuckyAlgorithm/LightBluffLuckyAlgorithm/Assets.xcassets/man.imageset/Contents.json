@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "cute-astronaut-riding-rocket-pointing-space-cartoon-vector-icon-illustration-science-techno.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
