@@ -1,8 +1,8 @@
 //
 //  EchoReachabilityManager.m
-//  PokerDynamoPro
+//  LightBluffLuckyAlgorithm
 //
-//  Created by jin fu on 2025/3/10.
+//  Created by LightBluff LuckyAlgorithm on 2025/3/10.
 //
 
 #import "LBLAReachabilityManager.h"

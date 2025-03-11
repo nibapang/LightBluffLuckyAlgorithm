@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  LightBluffLuckyAlgorithm
 //
-//  Created by jin fu on 2025/3/11.
+//  Created by LightBluff LuckyAlgorithm on 2025/3/11.
 //
 
 import UIKit
